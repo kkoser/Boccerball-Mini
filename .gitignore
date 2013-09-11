@@ -1,0 +1,8 @@
+.DS_Store
+
+*~
+*.swp
+
+tmp/**/*
+
+Boccerball\ Mini.xcodeproj/project.xcworkspace/xcuserdata/kylekoser.xcuserdatad/UserInterfaceState.xcuserstate
